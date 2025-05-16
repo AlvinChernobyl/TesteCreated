@@ -12,6 +12,12 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 
 		Scanner sc = new Scanner(System.in);
+
+		int valor = 20;
+		String nome = "Lucas";
+		double altura = 1.75;
+		boolean ativo = true;
+
 	}
 
 }
